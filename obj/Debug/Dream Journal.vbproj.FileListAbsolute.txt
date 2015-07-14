@@ -1,0 +1,36 @@
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Debug\Dream Journal.exe
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Debug\Dream Journal.pdb
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Debug\Dream Journal.xml
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Configuration.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Login.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Main.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Resources.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.vbproj.GenerateResource.Cache
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.exe
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.xml
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.pdb
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.newEntry.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Settings.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.foodReminder.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.rcReminder.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.viewEntries.resources
+C:\Users\Jaime\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.entryView.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.exe
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.xml
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.pdb
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Debug\Dream Journal.exe
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Debug\Dream Journal.pdb
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Debug\Dream Journal.xml
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Configuration.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.entryView.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.foodReminder.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Login.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Main.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Resources.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.newEntry.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.rcReminder.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.Settings.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream_Journal.viewEntries.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Debug\Dream Journal.vbproj.GenerateResource.Cache

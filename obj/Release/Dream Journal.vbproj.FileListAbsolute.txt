@@ -1,0 +1,18 @@
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Release\Dream Journal.exe
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Release\Dream Journal.pdb
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\bin\Release\Dream Journal.xml
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.Configuration.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.entryView.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.foodReminder.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.Login.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.Main.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.Resources.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.newEntry.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.rcReminder.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.Settings.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream_Journal.viewEntries.resources
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream Journal.vbproj.GenerateResource.Cache
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream Journal.exe
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream Journal.xml
+C:\Users\Jaime Andres\Documents\Visual Studio 2008\Projects\Dream Journal\Dream Journal\obj\Release\Dream Journal.pdb
